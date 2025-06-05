@@ -8,7 +8,7 @@ export default function Home() {
         profitable for doctrine, for reproof, for correction, for instruction in
         righteousness."
       </p>
-      <p className="text-slate-500 text-sm md:text-[16px] top-2 relative">2 Timothy 3:16</p>
+      <p className="text-slate-500 text-sm md:text-[16px] top-2 relative">2 Timothy 3:16 (KJV)</p>
     </div>
   );
 }
